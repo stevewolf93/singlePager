@@ -1,9 +1,10 @@
 header {
   width: 100vw;
-  height: 12.5%;
+  height: 7.5%;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
+  margin: 2% 0;
 }
 
 .logo {
@@ -17,7 +18,7 @@ header {
 
 header > nav,
 .logo {
-  width: 50%;
+  width: 40%;
   height: 100%;
 }
 
