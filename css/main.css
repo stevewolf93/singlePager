@@ -50,15 +50,16 @@ main > .mainContainer {
   position: absolute;
 }
 .pictureContainer .phone > img {
-  width: 80%;
-  height: 70%;
+  width: 100%;
+  height: 80%;
 }
 
 .black {
   z-index: 1;
   top: 10%;
+  left: 5%;
 }
 
 .white {
-  left: 10%;
+  left: 22%;
 }
