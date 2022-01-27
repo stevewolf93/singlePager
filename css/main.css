@@ -23,17 +23,17 @@ main > .mainContainer {
 }
 
 .text > h1 {
-  font-size: 3.4rem;
+  font-size: 3rem;
 }
 
 .text > p {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
 .links{
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
   width: 100%;
 }
