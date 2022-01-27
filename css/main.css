@@ -1,16 +1,16 @@
-main{
+main {
   width: 100%;
-  height:92.5%;
+  height: 92.5%;
   display: flex;
   justify-content: center;
 }
 
-main>.mainContainer {
+main > .mainContainer {
   width: 70%;
-  color:var(--font-color-main-text);
+  color: var(--font-color-main-text);
 }
 
-.mainContainer>.text{
+.mainContainer > .text {
   width: 50%;
   height: 70%;
   display: flex;
@@ -19,10 +19,10 @@ main>.mainContainer {
   align-items: center;
 }
 
-.text>h1{
+.text > h1 {
   font-size: 3.5rem;
 }
 
-.text>p{
+.text > p {
   font-size: 1.5rem;
 }
