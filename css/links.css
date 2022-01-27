@@ -1,0 +1,18 @@
+header a , .links>a{
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: var(--font-color-nav)
+}
+
+.links>a{
+  padding:1rem;
+  margin-top: 1rem;
+  border-radius: 5%;
+}
+
+.links>a:first-of-type{
+  background-color: green;
+}
+.links>a:last-of-type{
+  background-color: rgb(78, 48, 248);
+}
